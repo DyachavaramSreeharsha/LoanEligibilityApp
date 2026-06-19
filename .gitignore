@@ -7,6 +7,8 @@ node_modules/
 .expo/
 
 frontend/android/.gradle/
+frontend/android/.cxx/
+frontend/android/app/build/
 frontend/android/build/
 
 backend/dist/
