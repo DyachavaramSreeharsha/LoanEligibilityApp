@@ -1,0 +1,12 @@
+backend/node_modules/
+frontend/node_modules/
+
+node_modules/
+
+.env
+.expo/
+
+frontend/android/.gradle/
+frontend/android/build/
+
+backend/dist/
